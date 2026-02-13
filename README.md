@@ -1,5 +1,14 @@
 wip wip wip wip wip wip
 
+<img width="1522" height="853" alt="Image" src="https://github.com/user-attachments/assets/f2f0e306-3544-459b-8144-f22271d70e75" />
+rigged and animate by me using Blender.
+<img width="1518" height="848" alt="Image" src="https://github.com/user-attachments/assets/9638d635-1a45-4b1c-8d05-9511b0f204a3" />
+<img width="1520" height="852" alt="Image" src="https://github.com/user-attachments/assets/0bf3dbdc-485b-4b2a-bb1f-1669b1fdb880" />
+
+![Image](https://github.com/user-attachments/assets/6f587c94-964b-441e-8de3-ad4cd3cfc36d)
+from my initial concept art sketch to a concept art illustration using AI
+![Image](https://github.com/user-attachments/assets/6d826117-dc46-42e2-a3f6-c1d93872cd1f)
+![Image](https://github.com/user-attachments/assets/d7401270-cedc-4a52-b12a-1449871f40f7)
 ![Screenshot 2024-11-06 221313](https://github.com/user-attachments/assets/125d3071-733d-4c0f-b8bf-e333ce5c8651)
 ![Screenshot 2024-10-26 003245](https://github.com/user-attachments/assets/350c584f-1362-4327-94e5-d6bfe84fbc50)
 ![Screenshot 2024-10-26 003257](https://github.com/user-attachments/assets/108fa096-c7e2-4c43-8450-af5f2c9ecb93)
