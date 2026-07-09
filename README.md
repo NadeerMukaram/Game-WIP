@@ -1,4 +1,25 @@
-wip wip wip wip wip wip
+wip 
+
+new ss
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/943cd841-24e2-4449-b69b-0262fda73a3d" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fdbabcf4-d8e7-4ff4-9c52-a99519e2ed10" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6c7da7fa-919b-4782-afd1-12696ec956ba" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ac5017c5-c8fb-462d-9967-b507cac068ba" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/067df79e-ed7f-401c-b952-26438f5dd84a" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c911d024-3676-4969-9763-be254da7e9a7" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0338fdbc-00f0-467f-ba6c-2da042e8581a" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/09b27f5f-125d-4831-a694-343198adb9a1" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/15e907a1-6ffc-43ef-9f66-ef75843dc95b" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/39687dcc-cb61-444f-994d-780765335c2c" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1954e6ef-b037-4bf7-9d12-6c2ef04b9f71" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9239b263-bc16-4834-b082-d9fd753f695d" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/46a9d909-a48c-4fbe-a9d6-78860ae7dd8e" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/873a36a9-bd44-4fe4-b01a-9334682231e9" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e067d515-aa39-4e66-9ac5-50c0b6ca2516" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4faa48be-abfc-4699-a8a6-66df669ee86b" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8016cd9e-7e30-47d8-8eb3-17e14095a343" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5251e28c-abd3-4ebd-b1ee-4e333738253a" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0ea6b479-6754-4785-a480-a81adac38594" />
 
 rigged and animated by me in Blender.
 <img width="1522" height="853" alt="Image" src="https://github.com/user-attachments/assets/f2f0e306-3544-459b-8144-f22271d70e75" />
